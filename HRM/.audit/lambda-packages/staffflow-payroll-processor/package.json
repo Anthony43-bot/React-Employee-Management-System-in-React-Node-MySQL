@@ -1,0 +1,8 @@
+﻿{
+  "name": "staffflow-lambda",
+  "version": "1.0.0",
+  "dependencies": {
+    "@neondatabase/serverless": "^0.9.0",
+    "aws-sdk": "^2.1600.0"
+  }
+}
